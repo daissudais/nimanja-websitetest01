@@ -946,6 +946,9 @@ body {
   }
 }
 
+* {
+    -webkit-tap-highlight-color: transparent;
+}
 
 
 /* ─── Similar Products Grid Section ────────────── */
